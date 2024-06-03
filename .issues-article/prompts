@@ -1,0 +1,11 @@
+CHAT GPT PROMPT
+
+Atue como um professor de programação e crie um texto com healines 
+para um artigo com o tema "Programação como ferramenta" seguindo as {REGRAS}
+
+{REGRAS}
+-Escreva usando headlines
+-Faça o texto de forma simples usando analogias cotidianas
+-Escreva em contexto cotidiano 
+-Use exemplos de engenharia química, elétrica e mecânica
+-Prove à partir do exemplo que programar é uma ferramenta e é necessário saber usar
